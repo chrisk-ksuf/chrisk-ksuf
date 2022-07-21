@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Christopher Kennedy
-- 👀 I’m do Application Developement and Integration work for Kansas State University Foundation
+- 👀 I do Application Development and Integration work for Kansas State University Foundation
 - 🌱 I’m currently learning and growing in Salesforce Development utilizing LWC (Lightning Web Components), APEX, Ligtning Flows, etc.
 - 💞️ I am also passionate about PHP, Python, SQL, and loving helping solve interesting problems.
 - 📫 How to reach me ...
